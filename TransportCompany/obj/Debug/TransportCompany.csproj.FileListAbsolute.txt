@@ -1,7 +1,0 @@
-Z:\Programs\VS\TransportCompany\TransportCompany\bin\Debug\TransportCompany.exe.config
-Z:\Programs\VS\TransportCompany\TransportCompany\bin\Debug\TransportCompany.exe
-Z:\Programs\VS\TransportCompany\TransportCompany\bin\Debug\TransportCompany.pdb
-Z:\Programs\VS\TransportCompany\TransportCompany\obj\Debug\TransportCompany.csprojAssemblyReference.cache
-Z:\Programs\VS\TransportCompany\TransportCompany\obj\Debug\TransportCompany.csproj.CoreCompileInputs.cache
-Z:\Programs\VS\TransportCompany\TransportCompany\obj\Debug\TransportCompany.exe
-Z:\Programs\VS\TransportCompany\TransportCompany\obj\Debug\TransportCompany.pdb
